@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Haichuan · Stay curious · Learning, one question at a time" />
+  <img src="./assets/header.svg?v=curiosity" width="100%" alt="Haichuan · Stay curious · Learning, one question at a time" />
 </p>
 
 Hi, I'm **Haichuan**.
