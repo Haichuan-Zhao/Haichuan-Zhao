@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header.svg?v=curiosity" width="100%" alt="Haichuan · Stay curious · Learning, one question at a time" />
+  <img src="./assets/header.svg?v=beneath" width="100%" alt="Haichuan · What lies beneath? · Between observation and understanding" />
 </p>
 
 Hi, I'm **Haichuan**.
 
-I work on **battery research** and enjoy learning by doing.
+I work on **battery research**. I'm interested in how things change, and what those changes reveal about the systems behind them.
 
-This is a small space for things I'm exploring, trying, and gradually figuring out.
+Research, to me, lives between **what we observe** and **what we understand**. This is a place for questions, experiments, and ideas open to revision.
 
-**Batteries** &nbsp; / &nbsp; **Curiosity** &nbsp; / &nbsp; **Learning by doing**
+**Matter** &nbsp; / &nbsp; **Change** &nbsp; / &nbsp; **Understanding**
 
 ---
 
-<sub>Stay curious. Take the next small step.</sub>
+<sub>Every answer leaves room for a deeper question.</sub>
