@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Haichuan Zhao — Questions to evidence</title>
+  <desc id="desc">A navy research notebook with a teal orbit linking a question, evidence, and the next exploration. Battery research, AI workflows and open source.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#38515D" fill-opacity=".45" />
+    </pattern>
+    <linearGradient id="field" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101F2B" />
+      <stop offset="1" stop-color="#142E36" />
+    </linearGradient>
+    <linearGradient id="orbit" x1="789" y1="80" x2="1104" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DE3CE" />
+      <stop offset="1" stop-color="#488C98" />
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="18" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#field)" />
+    <rect x="692" y="0" width="508" height="360" fill="url(#grid)" />
+    <path d="M0 0H1200" stroke="#7DE3CE" stroke-width="5" />
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="56" y="49" width="31" height="3" rx="1.5" fill="#7DE3CE" />
+      <text x="101" y="57" font-size="17" font-weight="600" letter-spacing="2.5" fill="#C4D8DC">HAICHUAN ZHAO</text>
+      <text x="54" y="145" font-size="57" font-weight="700" letter-spacing="-2" fill="#F1F6F7">Questions to evidence.</text>
+      <text x="57" y="201" font-size="24" font-weight="400" letter-spacing=".1" fill="#A8D7D1">Battery research. AI workflows. Open tools.</text>
+      <path d="M57 243H652" stroke="#36515A" />
+      <text x="57" y="286" font-size="15" letter-spacing="1.5" fill="#AEC2CB">RESEARCH</text>
+      <text x="169" y="286" font-size="17" fill="#7DE3CE">×</text>
+      <text x="199" y="286" font-size="15" letter-spacing="1.5" fill="#AEC2CB">AI</text>
+      <text x="238" y="286" font-size="17" fill="#7DE3CE">×</text>
+      <text x="268" y="286" font-size="15" letter-spacing="1.5" fill="#AEC2CB">OPEN SOURCE</text>
+      <circle cx="954" cy="177" r="110" stroke="#345663" stroke-width="1" />
+      <circle cx="954" cy="177" r="69" stroke="#345663" stroke-width="1" stroke-dasharray="3 7" />
+      <path d="M954 47V307M824 177H1084" stroke="#31515D" stroke-width="1" />
+      <ellipse cx="954" cy="177" rx="154" ry="74" transform="rotate(-32 954 177)" stroke="url(#orbit)" stroke-width="2" />
+      <path d="M818 235C840 263 888 253 939 226" stroke="#7DE3CE" stroke-width="3" stroke-linecap="round" />
+      <path d="M930 226L939 226L935 234" stroke="#7DE3CE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="954" cy="177" r="26" fill="#1C3C46" stroke="#7DE3CE" stroke-width="1.5" />
+      <text x="954" y="186" font-size="26" font-weight="500" text-anchor="middle" fill="#A0EBDD">?</text>
+      <circle cx="834" cy="224" r="6" fill="#7DE3CE" />
+      <circle cx="1063" cy="103" r="7" fill="#F5BC89" />
+      <circle cx="996" cy="271" r="4" fill="#77B2BF" />
+      <text x="818" y="282" font-size="12" letter-spacing="1.7" fill="#8EB6BF">EXPLORE</text>
+      <text x="1054" y="76" font-size="12" letter-spacing="1.7" fill="#E4C5AA">VERIFY</text>
+      <text x="1014" y="311" font-size="12" letter-spacing="1.7" fill="#8EB6BF">ITERATE</text>
+    </g>
+  </g>
+</svg>
